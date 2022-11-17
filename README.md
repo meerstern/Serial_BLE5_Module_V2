@@ -15,7 +15,7 @@ Serial_BLE5_Module_V2 is Lyra P module board with Wireless Xpress Firm.
   * 3.3Vシリアル通信はGROVEコネクタ互換でも接続できます  
   * BGX13Pを使用した[BLE5モジュール変換基板][6]と同じピンアサインとサイズです  
   * TELEC(技適)認証済 工事設計認証番号 [209-J00456][5]  
-
+  * 基板サイズ25mm x25mm(Grove互換コネクタ突起部除く)  
 
 ## 関連情報
  * [データシート][1]
@@ -24,9 +24,9 @@ Serial_BLE5_Module_V2 is Lyra P module board with Wireless Xpress Firm.
  
   
 
-<img src="https://raw.githubusercontent.com/meerstern/Serial_BLE5_Module_V2/master/IMG/Lyra1.jpeg" width="360">
+<img src="https://github.com/meerstern/Serial_BLE5_Module_V2/blob/main/IMG/Lyra1.jpeg" width="360">
    
-<img src="https://raw.githubusercontent.com/meerstern/Serial_BLE5_Module_V2/master/IMG/Lyra2.jpeg" width="360">
+<img src="https://github.com/meerstern/Serial_BLE5_Module_V2/blob/main/IMG/Lyra2.jpeg" width="360">
   
     
 [1]: https://www.lairdconnect.com/documentation/datasheet-lyra-p
@@ -38,4 +38,4 @@ Serial_BLE5_Module_V2 is Lyra P module board with Wireless Xpress Firm.
 [6]: https://github.com/meerstern/Serial_BLE5_Module
 [7]: https://github.com/LairdCP/Lyra_Firmware
 
-MIT Lisense
+

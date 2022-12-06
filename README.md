@@ -17,6 +17,9 @@ Serial_BLE5_Module_V2 is Lyra P module board with Wireless Xpress Firm.
   * TELEC(技適)認証済 工事設計認証番号 [209-J00456][5]  
   * 基板サイズ25mm x25mm(Grove互換コネクタ突起部除く)  
 
+## 販売サイト
+  * [スイッチサイエンス][8]
+
 ## 関連情報
  * [データシート][1]
  * [Laird Connectivity社 Lyra P製品サイト][2]
@@ -37,5 +40,5 @@ Serial_BLE5_Module_V2 is Lyra P module board with Wireless Xpress Firm.
 [5]: https://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=209&TC=N&PK=1&FN=220428N209&SN=%94%46%8F%D8&LN=3&R1=*****&R2=*****
 [6]: https://github.com/meerstern/Serial_BLE5_Module
 [7]: https://github.com/LairdCP/Lyra_Firmware
-
+[8]: https://www.switch-science.com/products/8649
 
